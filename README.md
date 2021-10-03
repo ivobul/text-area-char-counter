@@ -1,0 +1,1 @@
+# text-area-char-counter
