@@ -1,1 +1,1 @@
-# Text Area Counter | JavaScript Exercise 
+# Text Area Character Counter | JavaScript Exercise 
