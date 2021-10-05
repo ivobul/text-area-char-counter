@@ -2,6 +2,10 @@ const textArea = document.querySelector("#text-area");
 const output = document.querySelector("#output");
 let counter = 60;
 
+window.addEventListener("load", () => {
+  textArea.value = "";
+});
+
 textArea.addEventListener("keydown", (e) => {
   displayCharCounter(e);
 });
